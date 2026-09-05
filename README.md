@@ -28,7 +28,7 @@ experience, and discovering the IT field where I can make the greatest impact.
 
 A hands-on Arduino robotics project involving motors, electronics, sensors, and hardware integration.
 
-![MotoBot](motobot.jpg)
+<img src="motobot.jpg" width="400">
 
 **What I learned:**
 - Arduino programming
