@@ -1,5 +1,4 @@
 # 💫 About Me:
-## 👋 About Me
 
 I'm a **BSIT student who enjoys exploring technology through hands-on projects.**
 I believe the best way to learn is by building, experimenting, and solving problems.
