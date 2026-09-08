@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./portfolio1/banner.svg" width="100%" alt="Tokyo Gaming Pixel Banner">
+  <img src="./banner.svg" width="100%" alt="Tokyo Gaming Pixel Banner">
 </p>
 
 ## 👋 About Me
