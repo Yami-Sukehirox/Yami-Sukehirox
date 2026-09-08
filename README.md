@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:4ade80&height=220&section=header&text=Lian%20Cruspero&fontSize=55&fontColor=ffffff&fontAlignY=55" />
 </p>
 
-<h2 align="center">🚀 BSIT STUDENT</h2
+<h2 align="center">💻 BSIT STUDENT</h2
 
 ## 👋 About Me
 
