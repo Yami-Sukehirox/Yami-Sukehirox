@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Pixel Sunset Banner">
+  <img src="./banner.svg" width="100%" alt="Pixel Sunset Adventure Banner">
 </p>
 
 ## 👋 About Me
