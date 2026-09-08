@@ -1,7 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:172554,100:4c1d95&height=250&section=header&text=Lian%20Cruspero&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=💻%20BSIT%20STUDENT%20%7C%20TECH%20ENTHUSIAST&descSize=18&descAlignY=65&descColor=e2e8f0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e3a5f,50:312e81,75:4c1d95,100:7c3aed&height=280&section=header&text=Lian%20Cruspero&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=💻%20BSIT%20STUDENT%20%7C%20TECH%20ENTHUSIAST&descSize=18&descAlignY=62&descColor=e9d5ff" />
 </p>
 
+<p align="center">
+  🌸 <b>テクノロジーを学び、アイデアを形にする</b> 🌸
+</p>
+
+<p align="center">
+  <i>Learning technology. Building ideas. Creating the future.</i>
+</p>
 ## 👋 About Me
 
 I'm a **BSIT student passionate about technology and hands-on development.**  
