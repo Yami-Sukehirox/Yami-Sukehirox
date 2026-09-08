@@ -1,300 +1,212 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="1200"
-     height="350"
-     viewBox="0 0 1200 350">
+<svg width="1200" height="320" viewBox="0 0 1200 320"
+     xmlns="http://www.w3.org/2000/svg">
 
-  <!-- BACKGROUND -->
-  <rect width="1200" height="350" fill="#070b18"/>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#d85d6b"/>
+      <stop offset="45%" stop-color="#f08061"/>
+      <stop offset="75%" stop-color="#f8aa67"/>
+      <stop offset="100%" stop-color="#ffe09a"/>
+    </linearGradient>
+  </defs>
 
-  <!-- SKY -->
-  <rect width="1200" height="230" fill="#0d1630"/>
+  <!-- SUNSET -->
+  <rect width="1200" height="320" fill="url(#sky)"/>
 
-  <!-- MOON -->
-  <rect x="1010" y="45" width="40" height="40" fill="#d9e6ff"/>
-  <rect x="1050" y="55" width="20" height="20" fill="#d9e6ff"/>
-
-  <!-- STARS -->
-  <g fill="#8ba7ff">
-    <rect x="80" y="45" width="5" height="5"/>
-    <rect x="170" y="80" width="4" height="4"/>
-    <rect x="290" y="40" width="5" height="5"/>
-    <rect x="760" y="55" width="5" height="5"/>
-    <rect x="850" y="90" width="4" height="4"/>
-    <rect x="930" y="40" width="5" height="5"/>
-    <rect x="1120" y="100" width="4" height="4"/>
+  <!-- SUN -->
+  <g fill="#ffe7a3">
+    <rect x="525" y="105" width="150" height="100"/>
+    <rect x="510" y="120" width="180" height="70"/>
+    <rect x="540" y="90" width="120" height="130"/>
   </g>
 
-  <!-- ============================= -->
-  <!-- TOKYO BUILDINGS -->
-  <!-- ============================= -->
-
-  <g fill="#080d1f">
-
-    <rect x="0" y="145" width="120" height="105"/>
-    <rect x="110" y="120" width="100" height="130"/>
-    <rect x="205" y="155" width="120" height="95"/>
-    <rect x="320" y="110" width="110" height="140"/>
-
-    <rect x="770" y="140" width="100" height="110"/>
-    <rect x="860" y="100" width="120" height="150"/>
-    <rect x="970" y="135" width="100" height="115"/>
-    <rect x="1060" y="115" width="140" height="135"/>
-
+  <!-- SUN GLOW -->
+  <g fill="#ffd486">
+    <rect x="470" y="220" width="260" height="6"/>
+    <rect x="430" y="230" width="340" height="5"/>
+    <rect x="390" y="240" width="420" height="4"/>
   </g>
 
-  <!-- BUILDING WINDOWS -->
+  <!-- CLOUDS -->
+  <g fill="#f7b178">
+    <rect x="100" y="75" width="140" height="10"/>
+    <rect x="125" y="65" width="90" height="10"/>
+    <rect x="150" y="55" width="45" height="10"/>
 
-  <g fill="#314578">
-
-    <rect x="25" y="165" width="10" height="15"/>
-    <rect x="55" y="165" width="10" height="15"/>
-    <rect x="85" y="165" width="10" height="15"/>
-
-    <rect x="135" y="140" width="10" height="15"/>
-    <rect x="165" y="140" width="10" height="15"/>
-    <rect x="135" y="175" width="10" height="15"/>
-    <rect x="165" y="175" width="10" height="15"/>
-
-    <rect x="230" y="175" width="10" height="15"/>
-    <rect x="260" y="175" width="10" height="15"/>
-
-    <rect x="345" y="130" width="10" height="15"/>
-    <rect x="375" y="130" width="10" height="15"/>
-    <rect x="405" y="130" width="10" height="15"/>
-
-    <rect x="795" y="160" width="10" height="15"/>
-    <rect x="825" y="160" width="10" height="15"/>
-
-    <rect x="890" y="120" width="10" height="15"/>
-    <rect x="920" y="120" width="10" height="15"/>
-    <rect x="950" y="120" width="10" height="15"/>
-
-    <rect x="1000" y="155" width="10" height="15"/>
-    <rect x="1030" y="155" width="10" height="15"/>
-
-    <rect x="1090" y="140" width="10" height="15"/>
-    <rect x="1120" y="140" width="10" height="15"/>
-    <rect x="1150" y="140" width="10" height="15"/>
-
+    <rect x="900" y="75" width="150" height="10"/>
+    <rect x="925" y="65" width="100" height="10"/>
+    <rect x="950" y="55" width="50" height="10"/>
   </g>
 
-  <!-- ============================= -->
-  <!-- TOKYO TOWER -->
-  <!-- ============================= -->
+  <!-- DISTANT MOUNTAINS -->
+  <path d="
+    M0 245 L130 175 L220 220
+    L340 145 L455 225
+    L590 155 L720 225
+    L850 150 L1000 220
+    L1120 165 L1200 205
+    L1200 320 L0 320 Z"
+    fill="#a65b60"/>
 
-  <polygon points="560,245 600,90 640,245"
-           fill="#121a32"
-           stroke="#ff416c"
-           stroke-width="5"/>
-
-  <rect x="595" y="100" width="10" height="145"
-        fill="#ff416c"/>
-
-  <rect x="580" y="150"
-        width="40"
-        height="7"
-        fill="#ff416c"/>
-
-  <rect x="572" y="195"
-        width="56"
-        height="7"
-        fill="#ff416c"/>
-
-  <rect x="598" y="70"
-        width="5"
-        height="25"
-        fill="#ff416c"/>
-
-  <!-- ============================= -->
-  <!-- MAIN TITLE -->
-  <!-- ============================= -->
-
-  <rect x="345" y="50"
-        width="510"
-        height="95"
-        fill="#070b18"
-        stroke="#3b65d4"
-        stroke-width="4"/>
-
-  <!-- Pixel corners -->
-  <rect x="345" y="50" width="15" height="15" fill="#ff3fc7"/>
-  <rect x="840" y="50" width="15" height="15" fill="#35d9ff"/>
-  <rect x="345" y="130" width="15" height="15" fill="#35d9ff"/>
-  <rect x="840" y="130" width="15" height="15" fill="#ff3fc7"/>
-
-  <!-- NAME -->
-
-  <text x="600"
-        y="95"
-        text-anchor="middle"
-        font-family="monospace"
-        font-size="40"
-        font-weight="bold"
-        letter-spacing="4"
-        fill="#ffffff">
-    LIAN CRUSPERO
-  </text>
-
-  <!-- STATUS -->
-
-  <text x="600"
-        y="125"
-        text-anchor="middle"
-        font-family="monospace"
-        font-size="17"
-        letter-spacing="3"
-        fill="#35d9ff">
-    &gt; BSIT STUDENT_
-  </text>
-
-  <!-- ============================= -->
-  <!-- NEON SIGNS -->
-  <!-- ============================= -->
-
-  <rect x="40" y="210"
-        width="100"
-        height="35"
-        fill="#090d20"
-        stroke="#ff3fc7"
-        stroke-width="3"/>
-
-  <text x="90"
-        y="234"
-        text-anchor="middle"
-        font-family="monospace"
-        font-size="15"
-        fill="#ff3fc7">
-    TOKYO
-  </text>
-
-  <rect x="1060" y="205"
-        width="100"
-        height="40"
-        fill="#090d20"
-        stroke="#35d9ff"
-        stroke-width="3"/>
-
-  <text x="1110"
-        y="230"
-        text-anchor="middle"
-        font-family="monospace"
-        font-size="14"
-        fill="#35d9ff">
-    ARCADE
-  </text>
-
-  <!-- ============================= -->
-  <!-- STREET -->
-  <!-- ============================= -->
-
-  <rect x="0" y="250"
-        width="1200"
-        height="100"
-        fill="#080b16"/>
-
-  <!-- Road -->
-
-  <rect x="0" y="275"
-        width="1200"
-        height="75"
-        fill="#111629"/>
-
-  <!-- Road lines -->
-
-  <g fill="#38436c">
-    <rect x="0" y="310" width="100" height="5"/>
-    <rect x="180" y="310" width="100" height="5"/>
-    <rect x="360" y="310" width="100" height="5"/>
-    <rect x="540" y="310" width="100" height="5"/>
-    <rect x="720" y="310" width="100" height="5"/>
-    <rect x="900" y="310" width="100" height="5"/>
-    <rect x="1080" y="310" width="100" height="5"/>
+  <!-- MOUNTAIN LIGHT -->
+  <g fill="#c87569">
+    <path d="M130 175 L220 220 L180 200 L150 210Z"/>
+    <path d="M340 145 L455 225 L400 185 L370 205Z"/>
+    <path d="M590 155 L720 225 L660 190 L625 205Z"/>
+    <path d="M850 150 L1000 220 L930 185 L890 205Z"/>
   </g>
 
-  <!-- ============================= -->
-  <!-- MOVING PIXEL CAR 🚗 -->
-  <!-- ============================= -->
+  <!-- DESERT DUNES -->
+  <path d="
+    M0 250
+    Q180 205 360 255
+    Q540 295 720 245
+    Q930 190 1200 245
+    L1200 320 L0 320Z"
+    fill="#d78260"/>
 
-  <g>
+  <path d="
+    M0 275
+    Q200 235 390 280
+    Q580 315 780 270
+    Q980 225 1200 270
+    L1200 320 L0 320Z"
+    fill="#c86e5c"/>
 
-    <!-- CAR BODY -->
+  <!-- CACTUS LEFT -->
+  <g fill="#40523e">
 
-    <rect x="0" y="285"
-          width="80"
-          height="25"
-          fill="#ff3fc7"/>
+    <rect x="155" y="205" width="28" height="90"/>
+    <rect x="150" y="220" width="38" height="65"/>
 
-    <rect x="15" y="275"
-          width="45"
-          height="15"
-          fill="#ff3fc7"/>
+    <!-- left arm -->
+    <rect x="125" y="225" width="30" height="18"/>
+    <rect x="118" y="210" width="18" height="35"/>
 
-    <!-- WINDOWS -->
+    <!-- right arm -->
+    <rect x="180" y="230" width="30" height="18"/>
+    <rect x="200" y="210" width="18" height="38"/>
 
-    <rect x="25" y="278"
-          width="12"
-          height="10"
-          fill="#0b1730"/>
-
-    <rect x="42" y="278"
-          width="12"
-          height="10"
-          fill="#0b1730"/>
-
-    <!-- WHEELS -->
-
-    <rect x="15" y="305"
-          width="15"
-          height="15"
-          fill="#05070d"/>
-
-    <rect x="60" y="305"
-          width="15"
-          height="15"
-          fill="#05070d"/>
-
-    <!-- ANIMATION -->
-
-    <animateTransform
-      attributeName="transform"
-      type="translate"
-      from="-100 0"
-      to="1300 0"
-      dur="9s"
-      repeatCount="indefinite"/>
+    <rect x="160" y="195" width="18" height="15"/>
 
   </g>
 
-  <!-- ============================= -->
-  <!-- MOVING NEON LIGHTS -->
-  <!-- ============================= -->
+  <!-- CACTUS HIGHLIGHTS -->
+  <g fill="#68734d">
+    <rect x="160" y="215" width="6" height="60"/>
+    <rect x="125" y="218" width="6" height="15"/>
+    <rect x="202" y="215" width="6" height="18"/>
+  </g>
 
-  <rect x="0" y="335"
-        width="80"
-        height="4"
-        fill="#35d9ff">
+  <!-- CACTUS RIGHT -->
+  <g fill="#35493c">
 
-    <animate
-      attributeName="x"
-      from="-100"
-      to="1200"
-      dur="4s"
-      repeatCount="indefinite"/>
+    <rect x="1010" y="225" width="25" height="70"/>
+    <rect x="1005" y="235" width="35" height="55"/>
 
-  </rect>
+    <rect x="980" y="245" width="30" height="16"/>
+    <rect x="975" y="230" width="16" height="32"/>
 
-  <rect x="500" y="335"
-        width="60"
-        height="4"
-        fill="#ff3fc7">
+    <rect x="1035" y="250" width="28" height="16"/>
+    <rect x="1055" y="235" width="16" height="32"/>
 
-    <animate
-      attributeName="x"
-      from="-200"
-      to="1200"
-      dur="5s"
-      repeatCount="indefinite"/>
+    <rect x="1015" y="215" width="16" height="15"/>
 
-  </rect>
+  </g>
+
+  <!-- SMALL CACTUS -->
+  <g fill="#4b5b40">
+    <rect x="830" y="250" width="18" height="45"/>
+    <rect x="818" y="260" width="14" height="12"/>
+    <rect x="812" y="250" width="10" height="25"/>
+    <rect x="848" y="270" width="15" height="12"/>
+    <rect x="857" y="255" width="10" height="27"/>
+  </g>
+
+  <!-- DESERT ROCKS -->
+  <g fill="#805052">
+    <rect x="300" y="275" width="35" height="12"/>
+    <rect x="310" y="268" width="18" height="8"/>
+
+    <rect x="900" y="280" width="40" height="10"/>
+    <rect x="910" y="273" width="20" height="8"/>
+  </g>
+
+  <!-- BIRDS -->
+  <g fill="#5b3b48">
+    <rect x="270" y="115" width="14" height="4"/>
+    <rect x="284" y="119" width="14" height="4"/>
+
+    <rect x="800" y="125" width="12" height="4"/>
+    <rect x="812" y="129" width="12" height="4"/>
+  </g>
+
+  <!-- WIND / SAND -->
+  <g fill="#ffe3a0">
+
+    <!-- long wind -->
+    <rect x="285" y="205" width="45" height="4">
+      <animate
+        attributeName="x"
+        values="285;400;285"
+        dur="3s"
+        repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="360" y="220" width="65" height="4">
+      <animate
+        attributeName="x"
+        values="360;500;360"
+        dur="4s"
+        repeatCount="indefinite"/>
+    </rect>
+
+    <!-- right wind -->
+    <rect x="700" y="215" width="50" height="4">
+      <animate
+        attributeName="x"
+        values="700;820;700"
+        dur="3.5s"
+        repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="790" y="235" width="35" height="4">
+      <animate
+        attributeName="x"
+        values="790;900;790"
+        dur="3s"
+        repeatCount="indefinite"/>
+    </rect>
+
+    <!-- small sand particles -->
+    <rect x="450" y="255" width="8" height="3">
+      <animate
+        attributeName="x"
+        values="450;550;450"
+        dur="2.5s"
+        repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="650" y="270" width="10" height="3">
+      <animate
+        attributeName="x"
+        values="650;750;650"
+        dur="3s"
+        repeatCount="indefinite"/>
+    </rect>
+
+  </g>
+
+  <!-- FOREGROUND -->
+  <rect x="0" y="305" width="1200" height="15" fill="#382b3a"/>
+
+  <!-- GRASS -->
+  <g fill="#293337">
+    <rect x="70" y="285" width="6" height="20"/>
+    <rect x="80" y="278" width="5" height="27"/>
+
+    <rect x="1150" y="280" width="6" height="25"/>
+    <rect x="1160" y="288" width="5" height="17"/>
+  </g>
 
 </svg>
