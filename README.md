@@ -1,16 +1,17 @@
-# 💫 About Me:
+## 👋 About Me
 
-I'm a **BSIT student who enjoys exploring technology through hands-on projects.**
-I believe the best way to learn is by building, experimenting, and solving problems.
+I'm a **BSIT student passionate about technology and hands-on development.**  
+I enjoy **building projects, experimenting with new ideas, and solving problems through code.**
 
-💻 **Programming:** C • C++  
-🤖 **Projects:** MotoBot • Smart Cane • LED Systems • C Applications  
-🔧 **Technologies:** Arduino • Electronics • Embedded Projects  
-🧠 **Skills:** Problem Solving • Logical Thinking • Programming Fundamentals  
-🌱 **Currently Exploring:** Information Technology • Automation • Embedded Systems  
+### 💻 Tech & Skills
 
-I enjoy transforming ideas into working projects and continuously
-challenging myself to learn something new.
+- **Languages:** C • C++
+- **Technologies:** Arduino • Electronics • Embedded Systems
+- **Projects:** MotoBot • Smart Cane • LED Systems • C Applications
+- **Skills:** Problem Solving • Logical Thinking • Programming Fundamentals
+- **Currently Learning:** Information Technology • Automation • Embedded Systems
+
+> 🚀 **Build. Experiment. Learn. Repeat.**
 
 <a href="https://yami-sukehirox.github.io/portfolio-new/portfolio1/">
   <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
