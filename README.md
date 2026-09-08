@@ -21,8 +21,8 @@ I enjoy **building projects, experimenting with new ideas, and solving problems 
 
 ## 🌐 Portfolio
 
-<a href="https://yami-sukehirox.github.io/portfolio-new/">
-  <img src="https://img.shields.io/badge/🚀%20VIEW%20MY%20PORTFOLIO-111111?style=for-the-badge&labelColor=111111&color=333333" alt="View My Portfolio">
+<a href="https://yami-sukehirox.github.io/portfolio-new/portfolio1/">
+  <img src="https://img.shields.io/badge/🚀%20VIEW%20MY%20PORTFOLIO-111111?style=for-the-badge" alt="View My Portfolio">
 </a>
 
 ---
