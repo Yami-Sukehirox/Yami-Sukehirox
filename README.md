@@ -13,8 +13,10 @@ I enjoy **building projects, experimenting with new ideas, and solving problems 
 
 > 🚀 **Build. Experiment. Learn. Repeat.**
 
+## 🌐 My Portfolio
+
 <a href="https://yami-sukehirox.github.io/portfolio-new/portfolio1/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  <img src="https://img.shields.io/badge/🚀%20VIEW%20MY%20PORTFOLIO-111111?style=for-the-badge" alt="View My Portfolio">
 </a>
 
 # 💻 Tech Stack:
