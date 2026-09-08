@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Tokyo Gaming Pixel Banner">
+  <img src="./banner.svg" width="100%" alt="Pixel Sunset Banner">
 </p>
 
 ## 👋 About Me
