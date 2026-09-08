@@ -5,26 +5,30 @@ I enjoy **building projects, experimenting with new ideas, and solving problems 
 
 ### 💻 Tech & Skills
 
-- **Languages:** C • C++
-- **Technologies:** Arduino • Electronics • Embedded Systems
-- **Projects:** MotoBot • Smart Cane • LED Systems • C Applications
-- **Skills:** Problem Solving • Logical Thinking • Programming Fundamentals
-- **Currently Learning:** Information Technology • Automation • Embedded Systems
+- 🧑‍💻 **Languages:** C • C++
+- ⚙️ **Technologies:** Arduino • Electronics • Embedded Systems
+- 🤖 **Projects:** MotoBot • Smart Cane • LED Systems • C Applications
+- 🧠 **Skills:** Problem Solving • Logical Thinking • Programming Fundamentals
+- 🌱 **Currently Learning:** Information Technology • Automation • Embedded Systems
 
 > 🚀 **Build. Experiment. Learn. Repeat.**
 
+---
+
 ## 🌐 Portfolio
 
-
-
 <a href="https://yami-sukehirox.github.io/portfolio-new/portfolio1/">
-  <img src="https://img.shields.io/badge/🚀%20VIEW%20MY%20PORTFOLIO-000000?style=for-the-badge&labelColor=000000&color=222222" alt="View My Portfolio">
+  <img src="https://img.shields.io/badge/🚀%20VIEW%20MY%20PORTFOLIO-111111?style=for-the-badge&labelColor=111111&color=333333" alt="View My Portfolio">
 </a>
 
+---
 
+## 🛠️ Tech Stack
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=plastic&logo=sketch&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Sidequest](https://img.shields.io/badge/sidequest-%23101227.svg?style=plastic&logo=sidequest&logoColor=white)
-
-
-
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=Adobe&logoColor=white)
