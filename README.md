@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e3a5f,50:312e81,75:4c1d95,100:7c3aed&height=280&section=header&text=Lian%20Cruspero&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=💻%20BSIT%20STUDENT%20%7C%20TECH%20ENTHUSIAST&descSize=18&descAlignY=62&descColor=e9d5ff" />
+  <img src="./banner.svg" width="100%" alt="Tokyo Gaming Pixel Banner">
 </p>
 
 ## 👋 About Me
@@ -21,7 +21,7 @@ I enjoy **building projects, experimenting with new ideas, and solving problems 
 
 ## 🌐 Portfolio
 
-<a href="https://yami-sukehirox.github.io/portfolio-new/portfolio1/">
+<a href="https://yami-sukehirox.github.io/portfolio-new/">
   <img src="https://img.shields.io/badge/🚀%20VIEW%20MY%20PORTFOLIO-111111?style=for-the-badge&labelColor=111111&color=333333" alt="View My Portfolio">
 </a>
 
