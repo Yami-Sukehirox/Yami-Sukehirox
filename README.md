@@ -1,4 +1,4 @@
-
+<img src="https://raw.githubusercontent.com/sebasrp/sebasrp/master/cyberpunk.pixelart.Akito_One.gif" alt="cyberpunk pixel art gif from Akito_One">
 ## 👋 About Me
 
 I am a **Bachelor of Science in Information Technology (BSIT) student** with a strong interest in **software development, programming, and emerging technologies**.
