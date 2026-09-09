@@ -1,8 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)
 
-<p align="center">
-  <img src="./banner.svg" width="100%" alt="Pixel Sunset Adventure Banner">
-</p>
 
 ## 👋 About Me
 
@@ -42,3 +39,6 @@ I enjoy developing hands-on projects that allow me to apply my knowledge, streng
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p align="center">
+  <img src="./banner.svg" width="100%" alt="Pixel Sunset Adventure Banner">
+</p>
