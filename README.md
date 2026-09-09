@@ -45,8 +45,8 @@ I enjoy developing hands-on projects that allow me to apply my knowledge, streng
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Currently Learning
-![UI](https://img.shields.io/badge/UI%20Design-Currently%20Learning-8A2BE2?style=for-the-badge)
-![GUI](https://img.shields.io/badge/GUI%20Design-Currently%20Learning-6A5ACD?style=for-the-badge)
+![UI Design](https://img.shields.io/badge/UI%20Design-8A2BE2?style=for-the-badge)
+![GUI Design](https://img.shields.io/badge/GUI%20Design-6A5ACD?style=for-the-badge)
 <p align="center">
   <img src="./banner.svg" width="100%" alt="Pixel Sunset Adventure Banner">
 </p>
