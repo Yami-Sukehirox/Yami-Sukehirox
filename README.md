@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/sebasrp/sebasrp/master/cyberpunk.pixelart.Akito_One.gif" alt="cyberpunk pixel art gif from Akito_One">
+
 ## 👋 About Me
 
 I am a **Bachelor of Science in Information Technology (BSIT) student** with a strong interest in **software development, programming, and emerging technologies**.
@@ -37,6 +38,7 @@ I enjoy developing hands-on projects that allow me to apply my knowledge, streng
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 <p align="center">
   <img src="./banner.svg" width="100%" alt="Pixel Sunset Adventure Banner">
 </p>
