@@ -50,6 +50,7 @@ I enjoy developing hands-on projects that allow me to apply my knowledge, streng
 ![UI Design](https://img.shields.io/badge/UI%20Design-8A2BE2?style=for-the-badge)
 ![GUI Design](https://img.shields.io/badge/GUI%20Design-6A5ACD?style=for-the-badge)
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+![GTK](https://img.shields.io/badge/GTK-7FE719?style=for-the-badge&logo=gtk&logoColor=black)
 <p align="center">
   <img src="./banner.svg" width="100%" alt="Pixel Sunset Adventure Banner">
 </p>
