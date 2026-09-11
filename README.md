@@ -45,6 +45,7 @@ I enjoy developing hands-on projects that allow me to apply my knowledge, streng
 ![Dev-C++](https://img.shields.io/badge/Dev--C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Tinkercad](https://img.shields.io/badge/Tinkercad-1477D4?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ### Currently Learning 
 ![UI Design](https://img.shields.io/badge/UI%20Design-8A2BE2?style=for-the-badge)
