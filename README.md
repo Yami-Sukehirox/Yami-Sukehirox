@@ -18,7 +18,7 @@ I am a **Bachelor of Science in Information Technology (BSIT) student** with a s
 
 ## 🌐 Portfolio
 
-<a href="https://yami-sukehirox.github.io/portfolio-new/portfolio1/">
+<a href="https://yami-sukehirox.github.io/port/portfolio1/">
   <img src="https://img.shields.io/badge/🚀%20VIEW%20MY%20PORTFOLIO-111111?style=for-the-badge" alt="View My Portfolio">
 </a>
 
