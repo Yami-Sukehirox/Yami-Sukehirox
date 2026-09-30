@@ -1,15 +1,7 @@
 <img src="https://raw.githubusercontent.com/sebasrp/sebasrp/master/cyberpunk.pixelart.Akito_One.gif" alt="cyberpunk pixel art gif from Akito_One">
 ## 🌐 Portfolio
 
-<a href="https://yami-sukehirox.github.io/portfolio/portfolio1/">
-  <img src="https://img.shields.io/badge/🚀%20VIEW%20MY%20PORTFOLIO-111111?style=for-the-badge" alt="View My Portfolio">
-</a>
-
----
-
 # 💻 Tech Stack
-
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -24,5 +16,4 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-1477D4?style=for-the-badge&logo=autodesk&logoColor=white)
 
-  <img src="./banner.svg" width="100%" alt="Pixel Sunset Adventure Banner">
-</p>
+  p>
